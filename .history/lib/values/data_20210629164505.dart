@@ -260,7 +260,7 @@ List<Widget> fullTexts = [
             ),
             TextSpan(
                 text:
-                    " to ensure no unknown devices are plugged in because hackers may try to infiltrate a work environment and plug in an almost invisible key logger device into a computer."),
+                    " to ensure no unknown devices are plugged in. Often hackers may try to infiltrate a work environment and plug in an almost invisible key logger device into a computer."),
           ],
         ),
       ))

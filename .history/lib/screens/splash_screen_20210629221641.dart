@@ -56,11 +56,10 @@ class _SplashScreenState extends State<SplashScreen>
   void imageControllerListener() {
     if (_imageController.status == AnimationStatus.completed) {
       Future.delayed(Duration(milliseconds: 1000), () {
-        // setState(() {
-        //   hasTextAnimationStarted = true;
-        // });
-        // _textController.forward().orCancel;
-        Navigator.popAndPushNamed(context, HomeScreen.route);
+        setState(() {
+          hasTextAnimationStarted = true;
+        });
+        _textController.forward().orCancel;
       });
     }
   }
@@ -80,9 +79,10 @@ class _SplashScreenState extends State<SplashScreen>
     if (_sloganController.status == AnimationStatus.completed) {
       Future.delayed(Duration(milliseconds: 1000), () {
         setState(() {
-          hasImageAnimationStarted = true;
-        });
-        _imageController.forward().orCancel;
+        hasImageAnimationStarted = true;
+      });
+      _imageController.forward().orCancel;
+        Navigator.popAndPushNamed(context, HomeScreen.route);
       });
     }
   }
@@ -90,11 +90,9 @@ class _SplashScreenState extends State<SplashScreen>
   void run() {
     Future.delayed(Duration(milliseconds: 800), () {
       setState(() {
-        hasTextAnimationStarted = true;
-        hasSloganAnimationStarted = true;
+        hasImageAnimationStarted = true;
       });
-      _textController.forward().orCancel;
-      _sloganController.forward().orCancel;
+      _imageController.forward().orCancel;
     });
   }
 
@@ -134,7 +132,7 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                   )
                 : Container(),
-            hasImageAnimationStarted?AnimatedBuilder(
+            AnimatedBuilder(
               animation: _imageController,
               child: Image.asset(
                 "assets/images/app_icon.png", //image
@@ -150,7 +148,7 @@ class _SplashScreenState extends State<SplashScreen>
                   child: child,
                 ),
               ),
-            ):Container(),
+            ),
             hasSloganAnimationStarted
                 ? Center(
                     child: AnimatedBuilder(

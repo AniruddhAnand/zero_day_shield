@@ -143,7 +143,7 @@ class _SplashScreenState extends State<SplashScreen>
               ),
               builder: (context, child) => RotationTransition(
                 turns: hasImageAnimationStarted
-                    ? Tween(begin: 1.0, end: 2.0).animate(_imageController)
+                    ? Tween(begin: 1.0, end: 2.5).animate(_imageController)
                     : Tween(begin: 180.0, end: 0.0).animate(_imageController),
                 child: Transform.scale(
                   scale: .7 * _imageAnimation.value,

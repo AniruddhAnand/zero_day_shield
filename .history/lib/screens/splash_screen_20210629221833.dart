@@ -134,7 +134,7 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                   )
                 : Container(),
-            hasImageAnimationStarted?AnimatedBuilder(
+            _hasImageAnimatedStarted?AnimatedBuilder(
               animation: _imageController,
               child: Image.asset(
                 "assets/images/app_icon.png", //image
@@ -150,7 +150,7 @@ class _SplashScreenState extends State<SplashScreen>
                   child: child,
                 ),
               ),
-            ):Container(),
+            ):Container()
             hasSloganAnimationStarted
                 ? Center(
                     child: AnimatedBuilder(

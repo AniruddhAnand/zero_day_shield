@@ -84,7 +84,7 @@ List<Widget> fullTexts = [
           children: <TextSpan>[
             TextSpan(
               text:
-                  "Computer security is the protection of your systems, devices and digital assets. Nowadays, everything is managed online, from grades to payments to taxes to retirement funds. These assets affect people of all ages and at every level. Due to this, there must be a way to protect your digital assets from online criminals. Computer Security knowledge allows experts to police the digital world and regular pedestrians surfing the web to defend themselves.",
+                  "Computer security is the protection of your devices and digital assets. Nowadays, everything is managed online, from grades to payments to taxes to retirement funds. These assets affect people of all ages and at every level. Due to this, there must be a way to protect your digital assets from online criminals. Computer Security knowledge allows experts to police the digital world and regular pedestrians surfing the web to defend themselves.",
             )
           ],
         ),
@@ -221,7 +221,7 @@ List<Widget> fullTexts = [
           children: <TextSpan>[
             TextSpan(
               text:
-                  "Preventing hackers and other online criminals from stealing digital assets comes in two forms: user prevention and built-in prevention.\n\nUser Prevention refers to methods the user should learn and apply in their day to day life to be more secure. When it comes to hacking, it is usually easier to attack a person than attack a computer because people naturally trust others. Social Engineers take advantage of this to extract information. Users should remember never to give out personal information over any form of communication unless 100% sure that it is being given to the proper authorities. Also, passwords should never be simple strings as they can easily be guessed or cracked. Hackers can use dictionaries and cracking programs to guess a password, even if it is made of multiple words. The most secure passwords are at least 7-8 digits and are made of random strings. There is a ",
+                  "Preventing hackers and other online criminals from stealing digital assets comes in two forms: user prevention, and built in prevention.\n\nUser Prevention refers to methods the user should learn and apply in their day to day life to be more secure. When it comes to hacking, it is usually easier to attack the person than it is to attack a computer. This is because people are naturally trusting of others. Social Engineers take advantage of this to extract information. Users should remember to never give out personal information over any form of communication unless 100% sure that it is being given to the correct authorities. Also passwords should never be simple strings as they can easily be guessed, or cracked. Hackers can use dictionaries along with a cracking program to guess a password even if it is made of multiple words. The most secure passwords are at least 7-8 digits and are made of of random strings. In this app there is a ",
             ),
             TextSpan(
                 text: "password generator",
@@ -235,7 +235,7 @@ List<Widget> fullTexts = [
                   }),
             TextSpan(
               text:
-                  " available in this app, where users can generate secure random passwords, name the passwords, and save the passwords. The saved passwords are secured by biometric authentication",
+                  " available, where users can generate secure random passwords, name the passwords, and save the passwords. The saved passwords are secured by biometric authentication",
             ),
             TextSpan(
               text:
@@ -244,7 +244,7 @@ List<Widget> fullTexts = [
             ),
             TextSpan(
               text:
-                  ". The passwords are stored in the phone using AES encryption",
+                  ", and the passwords are stored in the phone using AES encryption",
             ),
             TextSpan(
               text:
@@ -253,14 +253,21 @@ List<Widget> fullTexts = [
             ),
             TextSpan(
                 text:
-                    ".\n\nUsers should have anti-virus software installed on their computers to prevent malware attacks along with a firewall. In addition, users who work with confidential information should monitor the ports on their computer"),
+                    ".\n\nUsers should also have anti-virus software installed"),
+            TextSpan(
+              text: "- if not already-",
+              style: TextStyle(fontWeight: FontWeight.bold),
+            ),
+            TextSpan(
+                text:
+                    " on their computers to prevent malware attacks. For users that work with important data, always monitor the ports"),
             TextSpan(
               text: "(usb, headphone-jack, ethernet)",
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             TextSpan(
                 text:
-                    " to ensure no unknown devices are plugged in because hackers may try to infiltrate a work environment and plug in an almost invisible key logger device into a computer."),
+                    " to make sure that there are no unknown devices plugged in. Often hackers may try to infiltrate a work environment and plug in an almost invisible key logger device into a computer."),
           ],
         ),
       ))

@@ -253,14 +253,21 @@ List<Widget> fullTexts = [
             ),
             TextSpan(
                 text:
-                    ".\n\nUsers should have anti-virus software installed on their computers to prevent malware attacks along with a firewall. In addition, users who work with confidential information should monitor the ports on their computer"),
+                    ".\n\nUsers should also have anti-virus software installed"),
+            TextSpan(
+              text: "- if not already-",
+              style: TextStyle(fontWeight: FontWeight.bold),
+            ),
+            TextSpan(
+                text:
+                    "on their computers to prevent malware attacks. Users who work with confidential information should constantly monitor the ports"),
             TextSpan(
               text: "(usb, headphone-jack, ethernet)",
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             TextSpan(
                 text:
-                    " to ensure no unknown devices are plugged in because hackers may try to infiltrate a work environment and plug in an almost invisible key logger device into a computer."),
+                    " to make sure that there are no unknown devices plugged in. Often hackers may try to infiltrate a work environment and plug in an almost invisible key logger device into a computer."),
           ],
         ),
       ))

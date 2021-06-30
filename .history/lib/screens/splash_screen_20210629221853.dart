@@ -134,7 +134,7 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                   )
                 : Container(),
-            hasImageAnimationStarted?AnimatedBuilder(
+            _hasImageAn?AnimatedBuilder(
               animation: _imageController,
               child: Image.asset(
                 "assets/images/app_icon.png", //image

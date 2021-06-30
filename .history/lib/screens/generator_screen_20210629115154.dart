@@ -553,7 +553,7 @@ class _GeneratorScreenState extends State<GeneratorScreen> {
                           ),
                           TextSpan(
                               text:
-                                  " This password generator creates a random string of characters making it difficult for hackers to guess or extract these passwords. The passwords generated from this app are encrypted with AES encryption in the phone's database."),
+                                  " This password generator creates a random string of characters making it difficult for hackers to guess or extract these passwords. The passwords generated from this app are encrypted with AES encryption in the phone's database, which prevents hackers from stealing."),
                         ]),
                   ),
                 ),

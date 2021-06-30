@@ -94,7 +94,7 @@ class _SplashScreenState extends State<SplashScreen>
         hasSloganAnimationStarted = true;
       });
       _textController.forward().orCancel;
-      _sloganController.forward().orCancel;
+      _slo.forward().orCancel;
     });
   }
 
@@ -134,7 +134,7 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                   )
                 : Container(),
-            hasImageAnimationStarted?AnimatedBuilder(
+            AnimatedBuilder(
               animation: _imageController,
               child: Image.asset(
                 "assets/images/app_icon.png", //image
@@ -150,7 +150,7 @@ class _SplashScreenState extends State<SplashScreen>
                   child: child,
                 ),
               ),
-            ):Container(),
+            ),
             hasSloganAnimationStarted
                 ? Center(
                     child: AnimatedBuilder(
