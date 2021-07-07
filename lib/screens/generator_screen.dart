@@ -156,16 +156,16 @@ class _GeneratorScreenState extends State<GeneratorScreen> {
           CupertinoButton(
             child: Icon(Icons.list_rounded, color: Colors.black),
             onPressed: () async {
-            // bool isAuthenticated =
-               //   await Authentication.authenticateWithBiometrics();
-             // if (isAuthenticated) {
+             bool isAuthenticated =
+                  await Authentication.authenticateWithBiometrics();
+              if (isAuthenticated) {
                 Navigator.push(
                   context,
                   new MaterialPageRoute(
                     builder: (context) => new ScrollScreen(_pwds),
                   ),
                 );
-             // }
+              }
             },
           )
         ],
