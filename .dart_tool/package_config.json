@@ -74,6 +74,12 @@
       "languageVersion": "2.3"
     },
     {
+      "name": "csslib",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.16.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.2",
       "packageUri": "lib/",
@@ -98,6 +104,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "expansion_card",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/expansion_card-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0",
       "packageUri": "lib/",
@@ -105,9 +117,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-0.1.3",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.12"
     },
     {
       "name": "file",
@@ -144,6 +156,18 @@
       "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/google_fonts-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.3"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.14.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "html_unescape",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/html_unescape-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
     },
     {
       "name": "http",
@@ -255,9 +279,9 @@
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.5",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.11"
     },
     {
       "name": "pedantic",
@@ -423,9 +447,9 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/win32-1.7.4+1",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.2.4",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.13"
     },
     {
       "name": "xdg_directories",
@@ -446,7 +470,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-07-05T02:02:59.134516Z",
+  "generated": "2021-07-07T02:44:19.322958Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

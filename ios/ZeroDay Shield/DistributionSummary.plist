@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>zero_day_shield_app.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+				<key>dateExpires</key>
+				<string>7/4/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FMDB.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>audio_session.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>just_audio.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>local_auth.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>path_provider.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>sqflite.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F581C963FD39D46227C8F22F28FDFDA7E48CC678</string>
+						<key>dateExpires</key>
+						<string>7/4/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>url_launcher.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YS5N9UXLPG</string>
+						<key>name</key>
+						<string>Anand Krishnamurthy</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YS5N9UXLPG.com.ani.zeroDayShieldApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YS5N9UXLPG</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>YS5N9UXLPG.com.ani.zeroDayShieldApp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ac8a0e7c-7b6e-4195-be8f-147a6ce08493</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.ani.zeroDayShieldApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YS5N9UXLPG</string>
+				<key>name</key>
+				<string>Anand Krishnamurthy</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
