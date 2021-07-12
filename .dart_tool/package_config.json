@@ -446,6 +446,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "web_scraper",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/web_scraper-0.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
       "name": "win32",
       "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.2.4",
       "packageUri": "lib/",
@@ -470,7 +476,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-07-08T03:55:07.580192Z",
+  "generated": "2021-07-12T03:58:56.950611Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

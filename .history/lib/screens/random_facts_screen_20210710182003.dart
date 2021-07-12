@@ -1,0 +1,39 @@
+import 'package:flutter/cupertino.dart';
+import "package:flutter/material.dart";
+import "package:html/parser.dart";
+import 'package:html_unescape/html_unescape.dart';
+import 'package:flutter/services.dart' show rootBundle;
+
+class RandomFactsScreen extends StatefulWidget {
+  @override
+  _RandomFactsScreenState createState() => _RandomFactsScreenState();
+}
+
+class _RandomFactsScreenState extends State<RandomFactsScreen> {
+  List<String> _terms = [];
+  void getGlos() async {
+    try {
+      var document =
+          parse(await rootBundle.loadString('assets/data/facts.html'));
+      document.getElementsByClassName("term").forEach((item) {
+        setState(() {
+          _terms.add(HtmlUnescape().convert(item.innerHtml));
+        });
+      });
+    } catch (e) {
+    }
+  }
+
+  @override
+  void initState() {
+    getGlos();
+    super.initState();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      
+    );
+  }
+}
