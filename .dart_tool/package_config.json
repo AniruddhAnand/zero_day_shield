@@ -452,6 +452,12 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "widget_circular_animator",
+      "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/widget_circular_animator-0.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "win32",
       "rootUri": "file:///Users/anianand/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.2.4",
       "packageUri": "lib/",
@@ -476,7 +482,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-07-12T03:58:56.950611Z",
+  "generated": "2021-07-12T17:12:07.730358Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }
