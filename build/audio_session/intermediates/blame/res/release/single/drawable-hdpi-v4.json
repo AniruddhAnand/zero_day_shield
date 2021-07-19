@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_next.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_previous.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_play.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/drawable-hdpi-v4/media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_music_note.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/drawable-hdpi-v4/media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_pause.png",
+        "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/drawable-hdpi-v4/media_session_service_notification_ic_pause.png"
+    }
+]

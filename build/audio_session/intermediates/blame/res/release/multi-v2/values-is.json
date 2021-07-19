@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml",
+            "map": [
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,156,251,347,468",
+                        "endColumns": "100,94,95,120,126",
+                        "endOffsets": "151,246,342,463,590"
+                    }
+                },
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "595",
+                        "endColumns": "100",
+                        "endOffsets": "691"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/anianand/zero_day_shield/build/audio_session/intermediates/res/merged/release/values-is/values-is.xml",
+            "map": [
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,156,251,347,468",
+                        "endColumns": "100,94,95,120,126",
+                        "endOffsets": "151,246,342,463,590"
+                    }
+                },
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "595",
+                        "endColumns": "100",
+                        "endOffsets": "691"
+                    }
+                }
+            ]
+        }
+    ]
+}

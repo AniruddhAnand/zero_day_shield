@@ -1,0 +1,109 @@
+import "package:flutter/material.dart";
+import '../values/values.dart';
+
+class AboutScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        elevation: 5.0,
+        centerTitle: true,
+        title: Text(
+          'About',
+          style: Styles.customTitleTextStyle(
+            color: AppColors.headingText,
+            fontWeight: FontWeight.w600,
+            fontSize: Sizes.TEXT_SIZE_22,
+          ),
+        ),
+      ),
+      body: SafeArea(
+        child: SingleChildScrollView(
+          child: Padding(
+            padding: const EdgeInsets.all(20.0),
+            child: Column(
+              children: [
+                Text(
+                  "Credits",
+                  style: Styles.customTitleTextStyle(
+                    color: AppColors.headingText,
+                    fontWeight: FontWeight.w600,
+                    fontSize: Sizes.TEXT_SIZE_28,
+                  ),
+                ),
+                RichText(
+                  text:TextSpan(
+                    style: TextStyle(color:Colors.black,height: 3),
+                    children: [
+                      TextSpan(
+                        text:"ZeroDay Shield is the ultimate computer security educational tool. Get educated, get secure, and learn to protect digital assets.ZeroDay Shield gives you all the information needed to learn, be informed, and stay protected from digital thefts. This app not only educates users with the learning center, encryption demo, and social engineering tests, but also provides tools: password generator, password vault, password strength/compromise checker, latest cyber security news, important facts, and cyber security glossary.
+
+ZeroDay Shield is a one stop learning for all your computer security needs."
+                      ),
+                    ]
+                  ),
+                ),
+                Text(
+                  "Credits",
+                  style: Styles.customTitleTextStyle(
+                    color: AppColors.headingText,
+                    fontWeight: FontWeight.w600,
+                    fontSize: Sizes.TEXT_SIZE_28,
+                  ),
+                ),
+                RichText(
+                  text:TextSpan(
+                    style: TextStyle(color:Colors.black,height: 3),
+                    children: [
+                      TextSpan(
+                        text:"Computer_Security Image: Wikimedia Commons\n"
+                      ),
+                      TextSpan(
+                        text:"Hacker Image: Chaiyapruek Youprasert\n"
+                      ),
+                      TextSpan(
+                        text:"Encryption Image: Crypto Dost\n"
+                      ),
+                      TextSpan(
+                        text:"Protection Image: iuriimotov\n"
+                      ),
+                      TextSpan(
+                        text:"Score Image: Passatic\n"
+                      ),
+                      TextSpan(
+                        text:"Phishing Image: Freepic\n"
+                      ),
+                      TextSpan(
+                        text:"Nigerian Scam Text: Anorak\n"
+                      ),
+                      TextSpan(
+                        text:"Voicemail Audio 1: Courier Video(Youtube)\n"
+                      ),
+                      TextSpan(
+                        text:"Voicemail Audio 2: Scott Mulholland(Youtube)\n"
+                      ),
+                      TextSpan(
+                        text:"Voicemail Audio 3: Conejo Valley Guide(Youtube)\n"
+                      ),
+                      TextSpan(
+                        text:"Glossary: Cyberpolicy.com\n"
+                      ),
+                    ]
+                  ),
+                ),
+                Text(
+                  "Created and Developed by Aniruddh Anand",
+                  style: Styles.customTitleTextStyle(
+                    color: AppColors.headingText,
+                    fontWeight: FontWeight.w600,
+                    fontSize: Sizes.TEXT_SIZE_20,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}

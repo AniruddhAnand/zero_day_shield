@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/anianand/zero_day_shield/build/just_audio/intermediates/res/merged/release/values-sk/values-sk.xml",
+            "map": [
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "629",
+                        "endColumns": "100",
+                        "endOffsets": "725"
+                    }
+                },
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,259,357,486",
+                        "endColumns": "101,101,97,128,142",
+                        "endOffsets": "152,254,352,481,624"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/anianand/zero_day_shield/build/just_audio/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml",
+            "map": [
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "629",
+                        "endColumns": "100",
+                        "endOffsets": "725"
+                    }
+                },
+                {
+                    "source": "/Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,259,357,486",
+                        "endColumns": "101,101,97,128,142",
+                        "endOffsets": "152,254,352,481,624"
+                    }
+                }
+            ]
+        }
+    ]
+}

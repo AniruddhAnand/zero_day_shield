@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:local_auth] /Users/anianand/zero_day_shield/build/local_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/anianand/zero_day_shield/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/anianand/zero_day_shield/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:just_audio] /Users/anianand/zero_day_shield/build/just_audio/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/anianand/zero_day_shield/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_session] /Users/anianand/zero_day_shield/build/audio_session/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/933d661a419bf7a83fd1cf166912a299/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e99120cdf85e287031178cdc91eb2340/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5bfbe01745d2a29d4e7cd137b17143f4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/b4a3a22f2fd33c2c083d6c3b27539a51/media2-common-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.0-alpha03] /Users/anianand/.gradle/caches/transforms-2/files-2.1/859b18280b7bd722809935488c9ff361/media-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e8fc2df41cab14d84a057ef3bb2e312e/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/11b4e98436a03b317f7fd648a1faccca/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/9f268c9b2dc22bb998b4454f2a639f38/exoplayer-dash-2.13.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a56058beab4d4d9f1fb41830b803ff4b/exoplayer-hls-2.13.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/459d94380b892a7f4bec311f33adaee3/exoplayer-smoothstreaming-2.13.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a954d1a93a8c4cabe71389a64d1f8ffa/jetified-exoplayer-extractor-2.13.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/65ed3d7501071f1d9a925acdf9937576/jetified-exoplayer-common-2.13.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/fefdd83516e8eeb5097956f9d9af4b04/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/2ca8bc49d3a28fb6fa3bddf429b143ba/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:70-107
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:2:3-64
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:2:20-62
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:3:3-71
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:25:5-74
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:3:20-69
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:4:3-69
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:24:5-72
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:4:20-67
+application
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:5:3-26:17
+MERGED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:27:5-31:19
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:27:5-31:19
+MERGED from [androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:5:16-46
+	android:icon
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:5:47-81
+activity#io.flutter.embedding.android.FlutterFragmentActivity
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:5-22:16
+	android:launchMode
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:83-113
+	android:hardwareAccelerated
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:300-334
+	android:windowSoftInputMode
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:335-377
+	android:configChanges
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:149-299
+	android:theme
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:114-148
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:15-82
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:11:7-114
+	android:resource
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:11:74-111
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:11:18-73
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:17:7-132
+	android:resource
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:17:83-129
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:17:18-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:18:7-21:23
+action#android.intent.action.MAIN
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:19:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:20:9-69
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:20:19-66
+meta-data#flutterEmbedding
+ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:25:5-68
+	android:value
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:25:48-65
+	android:name
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:25:16-47
+uses-sdk
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] /Users/anianand/zero_day_shield/build/local_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] /Users/anianand/zero_day_shield/build/local_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/anianand/zero_day_shield/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/anianand/zero_day_shield/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/anianand/zero_day_shield/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/anianand/zero_day_shield/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] /Users/anianand/zero_day_shield/build/just_audio/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] /Users/anianand/zero_day_shield/build/just_audio/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/anianand/zero_day_shield/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/anianand/zero_day_shield/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /Users/anianand/zero_day_shield/build/audio_session/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /Users/anianand/zero_day_shield/build/audio_session/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/933d661a419bf7a83fd1cf166912a299/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/933d661a419bf7a83fd1cf166912a299/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e99120cdf85e287031178cdc91eb2340/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e99120cdf85e287031178cdc91eb2340/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5bfbe01745d2a29d4e7cd137b17143f4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5bfbe01745d2a29d4e7cd137b17143f4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/b4a3a22f2fd33c2c083d6c3b27539a51/media2-common-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/b4a3a22f2fd33c2c083d6c3b27539a51/media2-common-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] /Users/anianand/.gradle/caches/transforms-2/files-2.1/859b18280b7bd722809935488c9ff361/media-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] /Users/anianand/.gradle/caches/transforms-2/files-2.1/859b18280b7bd722809935488c9ff361/media-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e8fc2df41cab14d84a057ef3bb2e312e/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/e8fc2df41cab14d84a057ef3bb2e312e/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/11b4e98436a03b317f7fd648a1faccca/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/11b4e98436a03b317f7fd648a1faccca/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/9f268c9b2dc22bb998b4454f2a639f38/exoplayer-dash-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/9f268c9b2dc22bb998b4454f2a639f38/exoplayer-dash-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a56058beab4d4d9f1fb41830b803ff4b/exoplayer-hls-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a56058beab4d4d9f1fb41830b803ff4b/exoplayer-hls-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/459d94380b892a7f4bec311f33adaee3/exoplayer-smoothstreaming-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/459d94380b892a7f4bec311f33adaee3/exoplayer-smoothstreaming-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a954d1a93a8c4cabe71389a64d1f8ffa/jetified-exoplayer-extractor-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a954d1a93a8c4cabe71389a64d1f8ffa/jetified-exoplayer-extractor-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/65ed3d7501071f1d9a925acdf9937576/jetified-exoplayer-common-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/65ed3d7501071f1d9a925acdf9937576/jetified-exoplayer-common-2.13.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/fefdd83516e8eeb5097956f9d9af4b04/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/fefdd83516e8eeb5097956f9d9af4b04/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/2ca8bc49d3a28fb6fa3bddf429b143ba/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/2ca8bc49d3a28fb6fa3bddf429b143ba/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+activity#androidx.biometric.DeviceCredentialHandlerActivity
+ADDED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:28:9-30:67
+	android:theme
+		ADDED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:30:13-64
+	android:name
+		ADDED from [androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:29:13-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/65ed3d7501071f1d9a925acdf9937576/jetified-exoplayer-common-2.13.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/65ed3d7501071f1d9a925acdf9937576/jetified-exoplayer-common-2.13.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:24:22-76

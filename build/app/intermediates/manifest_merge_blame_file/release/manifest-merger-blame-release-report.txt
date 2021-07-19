@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ani.zero_day_shield_app"
+4    android:versionCode="3"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:2:3-64
+11-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:2:20-62
+12    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+12-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:3:3-71
+12-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:3:20-69
+13    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+13-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:4:3-69
+13-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:4:20-67
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:24:5-79
+14-->[com.google.android.exoplayer:exoplayer-core:2.13.1] /Users/anianand/.gradle/caches/transforms-2/files-2.1/81e143c845019e01e8397457ce110c03/exoplayer-core-2.13.1/AndroidManifest.xml:24:22-76
+15
+16    <application
+16-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:5:3-26:17
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] /Users/anianand/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:5:47-81
+19        android:label="ZeroDay Shield" >
+19-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:5:16-46
+20        <activity
+20-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:5-22:16
+21            android:name="io.flutter.embedding.android.FlutterFragmentActivity"
+21-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:15-82
+22            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+22-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:149-299
+23            android:hardwareAccelerated="true"
+23-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:300-334
+24            android:launchMode="singleTop"
+24-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:83-113
+25            android:theme="@style/LaunchTheme"
+25-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:114-148
+26            android:windowSoftInputMode="adjustResize" >
+26-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:6:335-377
+27
+28            <!--
+29           Specifies an Android theme to apply to this Activity as soon as
+30                 the Android process has started. This theme is visible to the user
+31                 while the Flutter UI initializes. After that, this theme continues
+32                 to determine the Window background behind the Flutter UI.
+33            -->
+34            <meta-data
+34-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:11:7-114
+35                android:name="io.flutter.embedding.android.NormalTheme"
+35-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:11:18-73
+36                android:resource="@style/NormalTheme" />
+36-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:11:74-111
+37            <!--
+38           Displays an Android View that continues showing the launch screen
+39                 Drawable until Flutter paints its first frame, then this splash
+40                 screen fades out. A splash screen is useful to avoid any visual
+41                 gap between the end of Android's launch screen and the painting of
+42                 Flutter's first frame.
+43            -->
+44            <meta-data
+44-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:17:7-132
+45                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+45-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:17:18-82
+46                android:resource="@drawable/launch_background" />
+46-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:17:83-129
+47
+48            <intent-filter>
+48-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:18:7-21:23
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:19:9-61
+49-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:19:17-58
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:20:9-69
+51-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:20:19-66
+52            </intent-filter>
+53        </activity>
+54        <!--
+55         Don't delete the meta-data below.
+56             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+57        -->
+58        <meta-data
+58-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:25:5-68
+59            android:name="flutterEmbedding"
+59-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:25:16-47
+60            android:value="2" />
+60-->/Users/anianand/zero_day_shield/android/app/src/main/AndroidManifest.xml:25:48-65
+61
+62        <activity
+62-->[:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+63            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+63-->[:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+64            android:exported="false"
+64-->[:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+65            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+65-->[:url_launcher] /Users/anianand/zero_day_shield/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+66        <activity
+66-->[androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:28:9-30:67
+67            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+67-->[androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:29:13-78
+68            android:theme="@style/DeviceCredentialHandlerTheme" />
+68-->[androidx.biometric:biometric:1.0.0-beta01] /Users/anianand/.gradle/caches/transforms-2/files-2.1/5403527ba017da42dd2413a70b830107/biometric-1.0.0-beta01/AndroidManifest.xml:30:13-64
+69    </application>
+70
+71</manifest>
